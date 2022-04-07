@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "open-iconic": "^1.1.1"
-  }
+  },
+  "workspaces": [
+    "container",
+    "frameworks\\react",
+    "frameworks\\vue"
+  ],
+  "name": "micro-frontend-ui",
+  "description": "All the frameworks! All",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamanzan/micro-frontend-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamanzan/micro-frontend-ui/issues"
+  },
+  "homepage": "https://github.com/mamanzan/micro-frontend-ui#readme"
 }
