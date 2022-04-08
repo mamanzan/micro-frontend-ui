@@ -5,7 +5,8 @@
   "workspaces": [
     "container",
     "frameworks\\react",
-    "frameworks\\vue"
+    "frameworks\\vue",
+    "styles"
   ],
   "name": "micro-frontend-ui",
   "description": "All the frameworks! All",
